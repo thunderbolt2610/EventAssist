@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351420629292",
+    "project_id": "eventassist-5d801",
+    "storage_bucket": "eventassist-5d801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351420629292:android:3447ba36b32a1d781cec89",
+        "android_client_info": {
+          "package_name": "com.example.eventassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351420629292-n3snq9d16c5qu7d2del4vf64avidkk74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dTfEBvUdFziUOsUcdsg9drKLkqzflqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351420629292-n3snq9d16c5qu7d2del4vf64avidkk74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
